@@ -11,12 +11,12 @@
 - SQL
 
 ### Featured Project
-- **Building LLM from Scratch**: Exploring foundational architectures and training strategies for Large Language Models. [https://github.com/Ankitath1510/Building-LLM-From-Scratch] 
+**Building LLM from Scratch**: Exploring foundational architectures and training strategies for Large Language Models. [https://github.com/Ankitath1510/Building-LLM-From-Scratch] 
 
 ### About Me
 Life-long Learner, Unlearner, and Relearner | On a Mission to Spread Tech Literacy
 
 ### Fun Facts & Hobbies
-- Bibliophile: Always on the hunt for the next great read!
+Bibliophile: Always on the hunt for the next great read!
 
 ---
