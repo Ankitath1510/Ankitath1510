@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍🏫 Ankita Thakkar
 
-<!--
-**Ankitath1510/Ankitath1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assistant Professor (AI & ML) | Data Science Enthusiast**  
+[LinkedIn](https://www.linkedin.com/in/ankita-thakkar-08b3526b/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Top Skills & Technologies
+- C, C++, Java, Python
+- Machine Learning, Deep Learning, LLMs
+- SQL
+
+### 🔥 Featured Project
+- **Building LLM from Scratch**: Exploring foundational architectures and training strategies for Large Language Models.
+
+### 👩‍🎓 About Me
+Life-long Learner, Unlearner, and Relearner | On a Mission to Spread Tech Literacy
+
+### 📚 Fun Facts & Hobbies
+- Bibliophile: Always on the hunt for the next great read!
+
+---
