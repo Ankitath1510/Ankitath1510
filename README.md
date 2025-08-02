@@ -11,7 +11,7 @@
 - SQL
 
 ### 🔥 Featured Project
-- **Building LLM from Scratch**: [https://github.com/Ankitath1510/Building-LLM-From-Scratch] Exploring foundational architectures and training strategies for Large Language Models.
+- **Building LLM from Scratch**: Exploring foundational architectures and training strategies for Large Language Models (LINK)[https://github.com/Ankitath1510/Building-LLM-From-Scratch] .
 
 ### 👩‍🎓 About Me
 Life-long Learner, Unlearner, and Relearner | On a Mission to Spread Tech Literacy
